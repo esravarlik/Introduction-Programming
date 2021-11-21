@@ -2,7 +2,9 @@
 C, C++, JAVA
 
 JAVACampInterfaceAbstract
+
 Adding Mernis to IntelliJ IDEA
+
 File > Settings > Plugins > WSDL > Install > OK.
 
 EasyWSDL Generator!
@@ -11,7 +13,8 @@ EasyWSDL Generator!
 
 src > New > Package > mernisService > Enter.
 
-![WSDL](https://user-images.githubusercontent.com/40757395/142758921-32363920-97a8-4962-afc9-3ce7feb3cb79.png)
+![EasyWSDL-Add](https://user-images.githubusercontent.com/40757395/142759316-5d8f12e6-5583-47d5-a47b-ed6c6be8a544.PNG)
+
 
 mernisServicePackage > EasyWSDL-Add web service > Sign up and Login > WSDLurl.
 
