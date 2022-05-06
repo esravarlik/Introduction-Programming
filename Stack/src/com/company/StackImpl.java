@@ -15,7 +15,7 @@ public class StackImpl<T> {
     public void push(Object newItem){
         if(isFull() == true){
             System.out.println("The Stack is full..");
-            return;
+            return null;
         }
         top = top + 1;
         stackArray[top] = newItem;
