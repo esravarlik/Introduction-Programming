@@ -17,14 +17,16 @@ Project 4 ECommerceDemo;
 - In case of fail or success, the user should be informed. 
 - Users should be able to sign up to the system with their Google accounts. (Simulation)
 
-
 - Configure the system as external service integration.
 - In case of failure or success, the user should be informed.
 - Users should be able to login to the system with their e-mail and password information.
 - Email and password are required.
 - In case of failure or success, the user should be informed.
 
-Layers;
+---
+![nLayered](https://user-images.githubusercontent.com/40757395/167207722-25ab26d9-ba0a-4092-8849-39d31631acb4.png)
+
+**Layers;**
 
 - business
   - abstracts
